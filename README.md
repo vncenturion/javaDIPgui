@@ -23,7 +23,7 @@
 
     3.2.	Desafios encontrados
     
-    Os maiores desafios encontrados foram concernentes ao desenvolvimento da interface gráfica e não dos filtros de processamento de imagem da aplicação. A ferramenta utilizada para criação da interface gráfica (APACHE NETBEANS) demanda muitos recursos da máquina, de modo que equipamentos mais antigos ou com menor disponibilidade de recursos de memória e processamento, acabam apresentar travamentos ou lentidão excessiva. Outrossim, há de ser considerada a ausência de material e referências em língua vernácula, o que prejudica também a resolução de problemas e indicações de usos de cada componente do layout da ferramenta; bem como a superação do escopo do tema avaliado.
+    Os maiores desafios encontrados foram concernentes ao desenvolvimento da interface gráfica e não dos filtros de processamento de imagem da aplicação. A ferramenta utilizada para criação da interface gráfica (APACHE NETBEANS) demanda muitos recursos da máquina, de modo que equipamentos mais antigos ou com menor disponibilidade de recursos de memória e processamento, acabam apresentar travamentos ou lentidão excessiva. Outrossim, há de ser considerada a ausência de material e referências em língua vernácula, o que prejudica também a resolução de problemas e indicações de usos de cada componente do layout da ferramenta; bem como a superação do escopo do tema abordado pela disciplina ante o tema avaliado.
 
 4.	TRABALHOS FUTUROS
 
